@@ -11,7 +11,7 @@ My submission: 01.cpp
 See the description about at the following site:
 https://pdogs.ntu.im/judge/problem/view/1901022003
 
-My submission: 02.cpp
+My submission: <a href="https://github.com/Chienyu-1215/NTU/blob/master/IM1003/1126%20midterm/02.cpp">02.cpp</a>
 
 ### Problem 4
 See the description about at the following site:
