@@ -15,7 +15,7 @@ int main(){
 	int edge[MAX_M][3]={0};
 	for(int i=0;i<m;i++){
 		cin>>edge[i][0]>>edge[i][1]>>edge[i][2];
-		int start=i;//排序Weight值 
+		int start=i;//Sorting Weights 
 		for(int j=i-1; j>=0;j--){
 			if(edge[start][2]<edge[j][2]){
 				swap(edge, start, j);
@@ -42,7 +42,7 @@ int main(){
 	vertex[edge[0][0]][1]=1;
 	vertex[edge[0][1]][1]=1;
 	for(int i=1;i<m;i++){
-		if(vertex[edge[i][0]][0]==0&&vertex[edge[i][1]][0]==0){//不屬於任何SET 
+		if(vertex[edge[i][0]][0]==0&&vertex[edge[i][1]][0]==0){//Not belongs to any SET 
 			st[count][0]=edge[i][0];
 			st[count][1]=edge[i][1];
 			totalWeight+=edge[i][2];
@@ -53,7 +53,7 @@ int main(){
 			vertex[edge[i][1]][1]++;
 			vertex[edge[i][0]][1]++;
 		}
-		else if(vertex[edge[i][0]][0]==vertex[edge[i][1]][0]){//同SET 
+		else if(vertex[edge[i][0]][0]==vertex[edge[i][1]][0]){//same SET 
 			
 		}
 		else if(vertex[edge[i][0]][0]==0&&vertex[edge[i][1]][0]!=0&&vertex[edge[i][1]][1]<t){
@@ -154,7 +154,7 @@ int main(){
 
 
 
-void swap(int graph[][3],int i, int j){//交換陣列順序 
+void swap(int graph[][3],int i, int j){//Exchange the order
 	int temp1=graph[j][0], temp2=graph[j][1], temp3=graph[j][2];
 	graph[j][0]=graph[i][0];
 	graph[j][1]=graph[i][1];
