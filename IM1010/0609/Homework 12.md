@@ -1,5 +1,5 @@
-# Homework 12
-## Data Structure and Advanced Programming
+# Data Structure and Advanced Programming HW12
+## Homework 12 
 B08705034 資管一 施芊羽
 ## 1. 
 In my opinion, I think that the using hash-table will be the most efficient and less-memory-used way to implement an English dictionary if a good, well-defined hashing function is chosen. 
