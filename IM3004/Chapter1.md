@@ -59,3 +59,8 @@
     * Make employees happy in the organization.
 * Creating a Positive Work Environment
 * Improving Ethical Behavior
+
+
+### Three Levels of Analysis in OB Model
+![](https://i.imgur.com/TQD5Xgm.png)
+
