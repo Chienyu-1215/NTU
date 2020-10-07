@@ -1,4 +1,4 @@
-###### tags: `Statistics` `Notes`
+###### tags: `MGT2001 Statistics` `Notes`
 # Statistics: Chapter 1 What is Statistics?
 ## Agenda
 * Statistical Methods
