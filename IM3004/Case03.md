@@ -1,64 +1,108 @@
-###### tags: `IM3004 Organization Behaviors` `Notes`
-# Organizational Behaviors - Chapter 5
-# Perception and Individual Decision Making
-## Explain the Factors That Influence Perception 
-* Perception is a process by which individuals organize and interpret their sensory impressions to give meaning to their environment.
-* It is important to the study of OB because people’s behaviors are based on their perception of what reality is, not on reality itself.
-![](https://i.imgur.com/tKk1tsX.png)
+###### tags: `IM3004 Organization Behaviors` `Notes` `Case`
+# Organization Behaviors Case III
+# 12怒漢 12 Angry Men
+## 環境背景
+* 一場凶殺案
+* 一個物證、兩個人證
+* 陪審團
+    * 定罪與否需一致通過
+    * 6 - 12 位公民組成
+* 討論發展
+    * 11:1
+    * 逆轉性證據
+    * 人性探討
+* 無罪推定
+    * 被告無罪
+    * 除非檢方有關鍵證據
 
 
-## Explain Attribution Theory
-* Attribution theory suggests that when we observe an individual’s behavior, we attempt to determine whether it was internally or externally caused.
-* Determination depends on three factors:
-    * Distinctiveness
-    * Consensus
-    * Consistency
-* Clarification of the differences between internal and external causation
-    * Internally caused – those that are believed to be under the personal control of the individual. 內部
-    * Externally caused – resulting from outside causes. 外在
-
-![](https://i.imgur.com/U1fPfnJ.png)
-* Fundamental attribution error 
-    * We have a tendency to underestimate the influence of external factors and overestimate the influence of internal or personal factors. 多將好事歸因給內在，將錯推給外在
-* Self-serving bias 
-    * Individuals attribute their own successes to internal factors.
-
-### Common Shortcuts in Judging Others
-* Selective perception
-    * Any characteristic that makes a person, object, or event stand out will increase the probability that it will be perceived.
-    * Since we can’t observe everything going on around us, we engage in selective perception.
-* Halo effect
-    * The halo effect occurs when we draw a general impression based on a single characteristic.
-* Contrast effects
-    * We do not evaluate a person in isolation.
-    * Our reaction to one person is influenced by other persons we have recently encountered.
-* Stereotyping
-    * Judging someone based on one’s perception of the group to which that person belongs.
-    * We have to monitor ourselves to make sure we’re not unfairly applying a stereotype in our evaluations and decisions.
-
-
-## 方案預期理論(Prospect theory, Tversky & Kahneman)
-* 框架效應(Framing effect): 正面框架陳述時風險偏好是規避風險, 負面框架陳述時風險偏好是追求風險
-* 規避損失（loss aversion):正面框架陳述時,在確定利得與可能利得擇一,選擇確定利得,故風險偏好是規避風險；負面框架陳述時,在確定損失與可能損失擇一,選擇可能損失,故風險偏好是追求風險
-* 短視近利 (myopia): 受眼前利得或損失的影響而忽略長期的資產結果
-
-### 框架效應對決策品質的影響
-* 決策 I: 
-    A. 確定贏$240  (84%)
-    B. 25%的機會贏$1,000, 75%的機會一無所獲  (16%)  
-* 決策 II: 
-    C. 確定損失$750  (13%)
-    D. 75%的機會損失$1000, 25%的機會沒有任何損失  (87%) 
-* 決策 III: 
-    E. 25%的機會贏$240, 75%的機會損失$760  (14%)
-    F. 25%的機會贏$250, 75%的機會損失$750  (86%)
-*  A + D = E
-    $(100\%)\times(240) + [(75\%)\times(-1000)+(25\%) \times(0)] =(25\%)*(240) + (75\%)*(-760)$
-*  B + C = F
-    $[(25\%)\times(1000) + (75\%)\times(0)]+ (100
-    \%)\times(-750) = (25\%)\times(250) + (75\%)\times(-750)$
-* 框架效應可以解釋為何許多投資人沒有獲利
+## 角色介紹
+### 核心人力
+* 8號
+    * 建築師
+    * 邏輯理性
+    * 首位對男孩有罪提出質疑者
+* 3號
+    * 與兒子關係差
+* 4號
+    * 股票經紀人
+    * 理性冷靜
+* 10號
+    * 脾氣暴躁、說話大聲
+    * 認定貧民窟刻板印象
+### 協力人力
+* 1號
+* 5號
+    * 反對貧民窟孩子是壞人論點
+* 9號
+    * 老人
+    * 觀察力敏銳
+    * 富同理心
+* 11號
+### 從眾人力
+* 2號
+    * 銀行員
+    * 膽小怯弱
+    * 易被左右
+* 6號
+* 7號
+    * 漫不經心
+    * 球迷
+* 12號
+    * 優柔寡斷
+    * 廣告企劃師
 
 
+## 故事架構
+* 少年背景\
+    * 出生貧民窟
+    * 常被父親虐打
+* 老人證詞
+* 女人證詞
+    * 住在對街
+    * 從電車車窗看到畫面
+* 少年自述、物證
+    * 買蝴蝶刀
+    * 返家被抓
 
 
+## 故事大綱
+* 有一個少年被控殺害父親，陪審團根據人證物證判斷少年是否有罪，若對證具有reasonable doubt必須判無罪，有罪或無罪判定必須全體陪審團意見一致方能定案，否則另組陪審團繼續。
+* 物證: 刀子 但是無指紋
+* 人證: 住在少年樓下的老頭聽見少年大喊，並看見少年沖出一樓大門；對面女人，看見少年持刀行兇
+* 陪審團一開始11有罪:1 無罪
+### 故事結局
+全體無異議判定少年無罪
+![](https://i.imgur.com/vgTQpZb.png)
+
+
+* 每個陪審團員的影響（說服/溝通）戰略：
+    * 人物特性(personality/backgrounds)
+    * 領導風格：
+        * 主席
+        * ＃8陪審團員
+
+
+## ＃8陪審團員說服策略是什麼
+* 中立立場
+* 每個人表達自己的觀點
+* 聆聽並詢問對方理由思路
+* 客觀證據(刀子是否特別 老人走路速度 女人的視力)
+* 匿名投票
+* 建立聯盟
+* 合乎邏輯的推論
+* 場景重現
+* 訴諸共同理想
+* 弱化對方政治正確(激怒對方說出不理性的話 失去正當性)
+
+
+## Relative Effectiveness of Influence Tactics
+* Rational persuasion 以理說服
+* Inspirational appeal 鼓舞激勵
+* Consultation 諮詢商討
+* Ingratiation 巴結
+* Exchange 交換
+* Personal appeal 個人魅力
+* Coalition 結盟
+* Legitimating 正當性
+* Pressure 壓力
