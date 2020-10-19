@@ -1,7 +1,7 @@
 ###### tags: `IM3004 Organization Behaviors` `Notes`
 # Organizational Behaviors - Chapter 2
 # Diversity in Organizations
-### Workplace Discrimination and Organizational Effectiveness
+## Workplace Discrimination and Organizational Effectiveness
 * Note a difference between things,
 * Unfair discrimination assumes stereotypes about group:
     * Refusal to recognize individual differences is harmful to organizations and employees.
@@ -10,7 +10,7 @@
     * *Suggested movie: Ruth Bader Ginsburg, The Intern.*
 
 
-### Biographical Characteristics and Organizational Behavior
+## Biographical Characteristics and Organizational Behavior
 * Personal characteristics that are objective and easily obtained from personnel records:
     * Variations in these can be the basis of discrimination:
         * Age
@@ -41,7 +41,8 @@
         * Autism
         * Abuse of alcohol or drug
 
-### Other Characteristic and Organizational Behavior
+
+## Other Characteristic and Organizational Behavior
 * Tenure 年資
     * A good predictor of employee productivity.
     * Positively related to job performance.
@@ -59,7 +60,7 @@
     * Nine basic abilities related to ensure employees have the ability at work. 
 
 
-### Describe How Organizationx Manage Diversity Effectively
+## Describe How Organizationx Manage Diversity Effectively
 * Make everyone more aware of and sensitive to the needs and differences of others. 
     * Positive diversity climate.
     * Diversity is more successful when it's everyone's business.
@@ -73,7 +74,7 @@
     * Foster personal development practices that bring out the skills and abilities of everyone. 
 
 
-### Hofstede's Five Value Dimensions and GLOBE
+## Hofstede's Five Value Dimensions and GLOBE
 * Hofstede’s Framework
     * Power distance
         為一國國民能接受組織機構內權力分配不均等的程度。
