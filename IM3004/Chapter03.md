@@ -1,12 +1,12 @@
 ###### tags: `IM3004 Organization Behaviors` `Notes`
 # Organization Behaviors: Chapter 3
-### Contrast the Three Components of an Attitude 
+## Contrast the Three Components of an Attitude 
 * Attitudes are evaluative statements—either favorable or unfavorable—about objects, people, or events.
     * They reflect how we feel about something.
 ![](https://i.imgur.com/KR5WQyN.png)
 
 
-### Summarize the Relationship Between Attitudes and Behavior 
+## Summarize the Relationship Between Attitudes and Behavior 
 * The attitudes that people hold determine what they do.
     * Festinger: cases of attitude following behavior illustrate the effects of cognitive dissonance.
     * Cognitive dissonance認知失調 is any incompatibility an individual might perceive between two or more attitudes or between behavior and attitudes.
@@ -20,7 +20,7 @@
 * The attitude-behavior relationship is likely to be much stronger if an attitude refers to something with which we have direct personal experience.
 
 
-### Compare the Major Job Attitudes
+## Compare the Major Job Attitudes
 * Job Satisfaction 工作滿意度
     * A positive feeling about the job resulting from an evaluation of its characteristics.
 * Job Involvement
@@ -39,8 +39,8 @@
     * Engaged employees are passionate about their work and company.
 
 
-### Job Satisfaction 
-#### Define Job Satisfaction 
+## Job Satisfaction 
+### Define Job Satisfaction 
 * Job Satisfaction
     * A positive feeling about a job resulting from an evaluation of its characteristics.
 * Two approaches for measuring job satisfaction are popular
