@@ -1,64 +1,64 @@
-###### tags: `MGT2001 Statistics` `Notes`
-# Statistics: Chapter 6 Probability
-## Gambling and Probability
-The mathematical theory of probability has its roots in attempts to analyze ==games of chance== by **Gerolamo Cardano** in the sixteenth century, and by **Pierre de Fermat** and **Blaise Pascal** in the seventeenth. Christiaan Huygens published a book on the subject in 1657.
-
-## Agenda
-* Assigning Probability to Events
-* Basic Relationships of Probability
-* Probability Rules 
-* Probability Trees
-* Bayes’ Law
+###### tags: `IM3004 Organization Behaviors` `Notes`
+# Organizational Behaviors - Chapter 5
+# Perception and Individual Decision Making
+## Explain the Factors That Influence Perception 
+* Perception is a process by which individuals organize and interpret their sensory impressions to give meaning to their environment.
+* It is important to the study of OB because people’s behaviors are based on their perception of what reality is, not on reality itself.
+![](https://i.imgur.com/tKk1tsX.png)
 
 
-# Assigning Probability to Events
-## Probability Theory
-* Used to measure the degree of uncertainty 
-* Allows decision maker to deal with uncertainty in a consistent, rational manner
-* Help decision maker to make decision under uncertainty
-### Uncertainty
-* Future demand of products
-* Future level of interest rate
-* The possibility of a labor strike
-* of defective chips in the next production run.
+## Explain Attribution Theory
+* Attribution theory suggests that when we observe an individual’s behavior, we attempt to determine whether it was internally or externally caused.
+* Determination depends on three factors:
+    * Distinctiveness
+    * Consensus
+    * Consistency
+* Clarification of the differences between internal and external causation
+    * Internally caused – those that are believed to be under the personal control of the individual. 內部
+    * Externally caused – resulting from outside causes. 外在
 
-### Random Experiment
-A process or course of action, whose **outcome** is **uncertain**.
-![](https://i.imgur.com/0lNDQFV.png)
+![](https://i.imgur.com/U1fPfnJ.png)
+* Fundamental attribution error 
+    * We have a tendency to underestimate the influence of external factors and overestimate the influence of internal or personal factors. 多將好事歸因給內在，將錯推給外在
+* Self-serving bias 
+    * Individuals attribute their own successes to internal factors.
 
-### Characteristics of Probability
-* Probability is a **numerical measure** of the **likelihood** that an event will occur.
-* Probability values are always assigned on a scale from 0 to 1
-
-
-## Determining Sample Space 
-有可能發生的情形的最小單位
-* Build ++an exhaustive list++ of all possible outcomes.
-* Make sure the listed outcomes are ++mutually exclusive++.
-A list of outcomes that meet the above two conditions is called a sample space.
-
-### Simple Event and Event
-* The individual outcome is called a simple event. A simple event cannot be further decomposed into constituent outcomes.
-* An event is any collection of one or more simple events and a subset of sample space.
-
-### Properties of Probability
-Given a sample space $S ={E_1,E_2,…, E_n}$, the following characteristics for the probability, $P(E_i)$, of the Simple Event $E_i$ must hold:
-1. $0 \le P(E_i) \le 1$ for eacj $i$
-2. $\sum^n_{i = 1} P(E_i) = 1$
-
-The probability of event $A$, $P(A)$, is the sum of the probabilities assigned to the simple events contained in $A$.
-$P(A) = \sum_{All\space E_i\space in \space A}{P(E_i)}$
+### Common Shortcuts in Judging Others
+* Selective perception
+    * Any characteristic that makes a person, object, or event stand out will increase the probability that it will be perceived.
+    * Since we can’t observe everything going on around us, we engage in selective perception.
+* Halo effect
+    * The halo effect occurs when we draw a general impression based on a single characteristic.
+* Contrast effects
+    * We do not evaluate a person in isolation.
+    * Our reaction to one person is influenced by other persons we have recently encountered.
+* Stereotyping
+    * Judging someone based on one’s perception of the group to which that person belongs.
+    * We have to monitor ourselves to make sure we’re not unfairly applying a stereotype in our evaluations and decisions.
 
 
-## Assigning Probability
-### Classical Approach
-* Deduce the probability of an outcome logically from the symmetric nature of the experiments, e.g., flipping coins, picking a porker card, …
-* Assumptions: Randomness, Fairness, Equal and total information sharing
-* If an experiment has $n$ possible outcomes, this method  would assign a probability of $\frac{1}{n}$ to each outcome. It is necessary to determine the number of possible outcomes.
+## 方案預期理論(Prospect theory, Tversky & Kahneman)
+* 框架效應(Framing effect): 正面框架陳述時風險偏好是規避風險, 負面框架陳述時風險偏好是追求風險
+* 規避損失（loss aversion):正面框架陳述時,在確定利得與可能利得擇一,選擇確定利得,故風險偏好是規避風險；負面框架陳述時,在確定損失與可能損失擇一,選擇可能損失,故風險偏好是追求風險
+* 短視近利 (myopia): 受眼前利得或損失的影響而忽略長期的資產結果
 
-### Relative Frequency Approach
-Expresses an outcome’s probability as its long-run relative frequency of occurrence 
+### 框架效應對決策品質的影響
+* 決策 I: 
+    A. 確定贏$240  (84%)
+    B. 25%的機會贏$1,000, 75%的機會一無所獲  (16%)  
+* 決策 II: 
+    C. 確定損失$750  (13%)
+    D. 75%的機會損失$1000, 25%的機會沒有任何損失  (87%) 
+* 決策 III: 
+    E. 25%的機會贏$240, 75%的機會損失$760  (14%)
+    F. 25%的機會贏$250, 75%的機會損失$750  (86%)
+*  A + D = E
+    $(100\%)\times(240) + [(75\%)\times(-1000)+(25\%) \times(0)] =(25\%)*(240) + (75\%)*(-760)$
+*  B + C = F
+    $[(25\%)\times(1000) + (75\%)\times(0)]+ (100
+    \%)\times(-750) = (25\%)\times(250) + (75\%)\times(-750)$
+* 框架效應可以解釋為何許多投資人沒有獲利
 
-### Subjective Approach
-* The experimental outcomes are **not equally likely**, and no history of repetition exists $\Rightarrow$ Subjective Probability Determination (reflects the personal evaluation of the uncertainties involved.)
-* In the subjective approach we define probability as the degree of belief that we hold in the occurrence of an event
+
+
+
