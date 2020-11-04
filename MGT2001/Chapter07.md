@@ -207,3 +207,52 @@ $P(X = x) = p(x) = \frac{e^{-\mu} \mu^x}{x!!} \\ E(X) = Var(X) = \mu$
 * When $n$ is very large, binomial probability table may not be available.
 * If $p$ is very small $(p < .05)$, the binomial probabilities can be approximated by the Poisson distribution.
 Use $\mu = np$ and make the following approximation: $$P(X_{Binominal} = x) \simeq P(X_{Poisson} = x)$$ 
+
+
+## Geometric Probability Distribution
+### Geometric Random Variables 幾何
+Number of failures, $X$, in the Geometric Experiment or **number of failures** before the first success.
+
+### Geometric Experiment
+* The success occurs at $X + 1$ (first successful) trial or the last trial.
+* Each trial is an Independent Bernoulli Trial.
+    * The success probability $p$ is the **same** at each trial.
+    * Each trial has only **two** outcomes (success or failure).
+
+### Geometric Distribution
+$P(X = x) = p(1 – p)^x$ where $p$ = the probability of success and $x$ = the number of failures before success
+#### Shapes of $G(X)$ given $p$
+![](https://i.imgur.com/zrDha9s.png)
+
+### Expected Value and Variance of Geometric Distribution
+$X \thicksim G(p)$ where $p$ is the input parameter
+* $E(X) = \frac{(1 - p)}{p}$
+* $Var(X) = \frac{(1 - p)}{p^2}$
+
+#### Note
+* If $p \gt 0.5$, then $E(X) \lt 1$. Otherwise, if $p \le 0.5$, then $E(X) \ge 1$.
+* Geometric Distribution has **memoryless property**. Whenever a success occur, all the conditions are reset. The counting starts again.
+* 要用 Chebyshev’s Theorem -> 因為必為Positively Skewed
+
+
+## Hypergeometric Probability Distribution
+### Hypergeometric Experiment
+If $n$ items are selected from population with totally $N$ items (**Finite Population**), within which, $r$ items are “successful”, **count the number** of “successful” items, $X$. 
+
+### Hypergeometric Random Variable
+There are totally $N$ items in a population within which, $r$ items are successful.  
+Let $X$ be the number of successes in $n$ Bernoulli trials.  
+$X$ is a Hypergeometric random variable. 
+
+### Hypergeometric Probability Distribution
+Let $X$ be the number of successes in $N$ Bernoulli trials with population size = $N$ and total number of success items = $r$. $$P(X = x) = \left\{\begin{array}{}r \\ x \end{array}\right\} \frac{\left\{\begin{array}{}N - r \\ n - x \end{array}\right\}}{\left\{\begin{array}{}N \\ n \end{array}\right\}}$$
+
+### Expected Value and Variance
+$X \thicksim HG(N, r, n)$ where $N$, $r$, and $n$ are input parameters. 
+* $E(X) = n (\frac{r}{n})$
+* $Var(X) = n (\frac{r}{n})(1 - \frac{r}{n})(\frac{N - n}{N - 1})$
+
+#### Shapes of $HG(N, r, n)$
+![](https://i.imgur.com/UJPBa4v.png)
+* Bell Shape -> $N$ larger.
+* $r$ larger -> negatively skewed. 
