@@ -229,7 +229,7 @@ $cv = \frac{S}{\bar{X}}$
 #### Population
 $CV = \frac{\sigma}{\mu}$
 ### The Break Even Point
-* If average returns are fixed, $$S_A = (\frac{\bar{X_A}}{\bar{X_B})S_B$$
+* If average returns are fixed, $$S_A = (\frac{\bar{X_A}}{\bar{X_B}})S_B$$
 * If standard deviations are fixed, $$\bar{X_A} = (\frac{X_A}{X_B})\bar{X_B}$$
 
 
