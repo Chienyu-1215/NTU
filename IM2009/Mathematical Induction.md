@@ -9,16 +9,15 @@
     2. Inductive step: if $n$ is a natural number, then$ n + 1$ is also a natural number.
 
 *Note* 
-When $n = n' + 1$ for some $n' \in N$, we write $n'$ as $n − 1$; similarly, for $n' \in N_1$. The factorial function fac : $N \Rrightarrow N_1$, for example, can be defined inductively as follows:
-$$ fac(n) = \left\{ \begin{array}{} 1 & \mbox{if $n=0$} \\
-n \times fac(n-1) &\mbox{otherwise} \end{array} \right.$$
+When $n = n' + 1$ for some $n' \in N$, we write $n'$ as $n − 1$; similarly, for $n' \in N_1$. The factorial function $fac : N \Rrightarrow N_1$, for example, can be defined inductively as follows:
+$fac(n) = \left\{ \begin{array}{} 1 & \mbox{if }n=0 \\ n \times fac(n-1) &\mbox{otherwise} \end{array}\right.$
 
 
 ## Euler's Formula
 ![](https://i.imgur.com/3BEUfnX.png)
 
 **Theorem** 
-The number of vertices($V$), edges($E$), and faces($F$) in an arbitrary connected planar graph are related by the formula $V + F = E + 2$ 
+The number of vertices($V$), edges($E$), and faces($F$) in an arbitrary connected planar graph are related by the formula $V + F = E + 2$  
 **[Base Case]**
 $V = 1, F = 1, E = 0\Rrightarrow 1 + 1 = 0 + 2$
 $V = 2, F = 1, E = 1\Rrightarrow 2 + 1 = 1 + 2$
@@ -31,8 +30,9 @@ $V = 2, F = 1, E = 1\Rrightarrow 2 + 1 = 1 + 2$
 
 **Theorem**
 There exist Gray codes of length $\frac{k}{2}$ for any positive even integer $k$.
-要替$k$個物件命名，要用$\frac{k}{2}$個位元。
-**[Base Case]** $k = 2$
+要替$k$個物件命名，要用$\frac{k}{2}$個位元。  
+**[Base Case]** $k = 2$  
+
 **[Inductive Steps]** Constructing a Gray code of size $k = j + 2$, where $j$ is even from another of a smaller size $j$ *(induction hypothesis)*.
 
 **Theorem**
@@ -53,9 +53,9 @@ If $x_1, x_2, ..., x_n$ are all positive numbers, then $$(x_1x_2...x_n)^{\frac{1
 **Theorem** (Reversed Induction Principle)
 If a statement $P$, with a parameter $n$, is true for an **infinite** subset of the natural numbers, and if, for every $n \ge 1$, the truth of $P$ for $n$ implies its truth for $n − 1$, then $P$ is true for all natural numbers.
 
-For all powers of $2$, i.e. $n = 2^k, k\gt 1$: by induction on $k$.
-**[Base Case]:
-$(x_1x_2)^{\frac{1}{2}} \le \frac{x_1+x_2}{2}$, squaring both sides,...
+For all powers of $2$, i.e. $n = 2^k, k\gt 1$: by induction on $k$.  
+**[Base Case]:**  
+$(x_1x_2)^{\frac{1}{2}} \le \frac{x_1+x_2}{2}$, squaring both sides,...  
 **[Inductive step]**
 $(x_1x_2x_3...x_{2^{k+1}})^{\frac{1}{2^{k+1}}}\\=[(x_1x_2x_3...x_{2^{k+1}})^{\frac{1}{2^k}}]^{\frac{1}{2}}\\=[(x_1x_2x_3...x_{2^k})^{\frac{1}{2^k}}(x_{2^k+1}x_{2^k+2}...x_{2^{k+1}})^{\frac{1}{2^k}}]^{\frac{1}{2}}\\
 \le\frac{(x_1x_2x_3...x_{2^k})^{\frac{1}{2^k}}(x_{2^{k}+1}x_{2^{k}+2}...x_{2^{k+1}})^{\frac{1}{2^k}}}{2} \qquad\mbox{   by Base Case}\\
