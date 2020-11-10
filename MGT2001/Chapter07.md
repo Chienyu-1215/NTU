@@ -106,7 +106,7 @@ Let $c$ be a constant and $X$ be a random variable.
 
 ## Laws of Variance
 Let $c$ be a constant and $X$ be a random variable.
-* $Var(c) = 0 $
+* $Var(c) = 0$
 * $Var(cX) = c^2 Var(X)$
 * $Var(X + c) = Var(X)$
 
