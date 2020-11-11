@@ -84,7 +84,7 @@ When two events are mutually exclusive (that is, the two events cannot occur tog
 ## Conditional Probability
 The probability of an event when partial knowledge about the outcome of an experiment is known.
 
-$P(A|B) = $The conditional probability that event $A$ occurs, given that event $B$ has occurred.
+$P(A|B) =$The conditional probability that event $A$ occurs, given that event $B$ has occurred.
 * $P(A|B) = \frac{P(A \text{ and } B)}{P(B)}$
 * $P(B|A) = \frac{P(A \text{ and } B)}{P(A)}$
 
