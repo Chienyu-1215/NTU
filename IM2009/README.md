@@ -1,9 +1,11 @@
 # IM2009 Algortithms
 * Syllabus and course info. http://im.ntu.edu.tw/~tsay/dokuwiki/doku.php?id=courses:alg2020:main
 ## Homework Assignment
-* #1 <a href="http://im.ntu.edu.tw/~tsay/dokuwiki/lib/exe/fetch.php?media=courses:alg2020:hw1.pdf">[Problems]</a><a href="https://hackmd.io/ul3F-kXaQya649fohfvQEQ">  [Submission]</a>  [TA Solution]
-* #2 <a href="http://im.ntu.edu.tw/~tsay/dokuwiki/lib/exe/fetch.php?media=courses:alg2020:hw2.pdf">[Problems]</a><a href="https://hackmd.io/juf-ECr-R_ax39ylu_ACig"> [Submission]</a> [TA Solution]
-* #3 <a href="http://im.ntu.edu.tw/~tsay/dokuwiki/lib/exe/fetch.php?media=courses:alg2020:hw3.pdf">[Problems]</a><a href="https://hackmd.io/@K2V5EFQlTWCP33CWgxiuKg/r1HgrIx8P"> [Submission]</a> [TA Solution]
-* #4 <a href="http://im.ntu.edu.tw/~tsay/dokuwiki/lib/exe/fetch.php?media=courses:alg2020:hw4.pdf">[Problems]</a><a href=""> [Submission]</a> [TA Solution]
-
-## Notes
+* #1 <a href="http://im.ntu.edu.tw/~tsay/dokuwiki/lib/exe/fetch.php?media=courses:alg2020:hw1.pdf">[Problems]</a><a href="https://hackmd.io/ul3F-kXaQya649fohfvQEQ">  [Submission]</a>  <a href="http://im.ntu.edu.tw/~tsay/dokuwiki/lib/exe/fetch.php?media=courses:alg2020:alg2020hw1_s.pdf">[TA Solution]</a>
+* #2 <a href="http://im.ntu.edu.tw/~tsay/dokuwiki/lib/exe/fetch.php?media=courses:alg2020:hw2.pdf">[Problems]</a><a href="https://hackmd.io/juf-ECr-R_ax39ylu_ACig"> [Submission]</a> <a href="http://im.ntu.edu.tw/~tsay/dokuwiki/lib/exe/fetch.php?media=courses:alg2020:alg2020hw2_s.pdf">[TA Solution]</a>
+* #3 <a href="http://im.ntu.edu.tw/~tsay/dokuwiki/lib/exe/fetch.php?media=courses:alg2020:hw3.pdf">[Problems]</a><a href="https://hackmd.io/@K2V5EFQlTWCP33CWgxiuKg/r1HgrIx8P"> [Submission]</a> <a href="http://im.ntu.edu.tw/~tsay/dokuwiki/lib/exe/fetch.php?media=courses:alg2020:alg2020hw3_s.pdf">[TA Solution]</a>
+* #4 <a href="http://im.ntu.edu.tw/~tsay/dokuwiki/lib/exe/fetch.php?media=courses:alg2020:hw4.pdf">[Problems]</a><a href="https://hackmd.io/P5u00JndQCGadSUj4jpY0Q"> [Submission]</a> <a href="http://im.ntu.edu.tw/~tsay/dokuwiki/lib/exe/fetch.php?media=courses:alg2020:alg2020hw4_s.pdf">[TA Solution]</a>
+* #6 <a href="http://im.ntu.edu.tw/~tsay/dokuwiki/lib/exe/fetch.php?media=courses:alg2020:hw6.pdf">[Problems]</a><a href="https://hackmd.io/s2BXlcmbQiOWUaebywFElw"> [Submission]</a> <a href="http://im.ntu.edu.tw/~tsay/dokuwiki/lib/exe/fetch.php?media=courses:alg2020:alg2020hw6_s.pdf">[TA Solution]</a>
+* #7 <a href="http://im.ntu.edu.tw/~tsay/dokuwiki/lib/exe/fetch.php?media=courses:alg2020:hw7.pdf">[Problems]</a><a href="https://hackmd.io/C5PMrb_ERuGVWwEKojezmA"> [Submission]</a> <a href="http://im.ntu.edu.tw/~tsay/dokuwiki/lib/exe/fetch.php?media=courses:alg2020:alg2020hw7_s.pdf">[TA Solution]</a>
+* #8 <a href="http://im.ntu.edu.tw/~tsay/dokuwiki/lib/exe/fetch.php?media=courses:alg2020:hw8.pdf">[Problems]</a><a href="https://hackmd.io/lF67cKRLQ0yi5xAGuQcI_w"> [Submission]</a> <a href="http://im.ntu.edu.tw/~tsay/dokuwiki/lib/exe/fetch.php?media=courses:alg2020:alg2020hw8_s.pdf">[TA Solution]</a>
+* #9 <a href="http://im.ntu.edu.tw/~tsay/dokuwiki/lib/exe/fetch.php?media=courses:alg2020:hw9.pdf">[Problems]</a><a href="https://hackmd.io/242hXyuYRhyyXIe-yOxqdA"> [Submission]</a> <a href="http://im.ntu.edu.tw/~tsay/dokuwiki/lib/exe/fetch.php?media=courses:alg2020:alg2020hw9_s.pdf">[TA Solution]</a>
